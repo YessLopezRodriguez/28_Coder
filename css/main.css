@@ -1,0 +1,130 @@
+.navbar{
+    background-color:transparent;
+}
+
+#back-img {
+	background-image: url("../img/header.jpg");
+    background-size: 100%;	
+}
+    
+#custom-nav {
+    background-color: rgba(0,0,0,0);
+    border: 0;
+    box-shadow: none;
+    z-index: 999;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: background .5s ease-in-out, opacity .5s ease;
+    -moz-transition: background .5s ease-in-out, opacity .5s ease;
+    transition: background .5s ease-in-out, opacity .5s ease;
+}
+
+.boton {
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+    border: 0px;
+    width: 100PX;
+    text-align: center;
+}
+
+#backboton1 {
+    background: #E74C3C;  
+}
+
+#backboton2 {
+    background: #FFF;
+    color: #1C1C1C; 
+}
+
+.back {
+    background-color: #E74C3C;
+    height: 100%;
+    margin: 0px auto !important;
+}
+
+.back1 {
+    background-color: #1C1C1C;
+    height: 100%;
+    margin: 0px auto !important;
+}
+
+.imgback {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 250px;
+    margin: 0px auto !important;
+}
+
+#img1 {
+        background-image: url("../img/1.jpg");
+}
+
+
+#img2 {
+        background-image: url("../img/2.jpg");
+}
+#img3 {
+        background-image: url("../img/3.jpg");
+}
+
+#img4 {
+        background-image: url("../img/4.jpg");
+}
+#img5 {
+        background-image: url("../img/5.jpg");
+}
+#img6 {
+        background-image: url("../img/6.jpg");
+}
+
+.hr1 {
+    border: 0; 
+    height:0;
+    width: 10%;
+    margin-left: 45%;
+}
+
+.hrcolor1 {
+    border-top: 1px solid #E74C3C; 
+    border-bottom: 1px solid #E74C3C; 
+}
+
+.hrcolor2 {
+    border-top: 1px solid #FFF; 
+    border-bottom: 1px solid #FFF; 
+}
+
+.mar1 {
+    margin-top: 15%;
+}
+
+.martop {
+    margin: 5%;
+}
+
+.txtcolor1 {
+    color: white;    
+}
+
+.trans{
+    background-color: #E74C3C;
+    opacity: 0.5;
+    height: 200px;
+    background-size: 100%;
+}
+
+.margtop {
+    margin-top: 5%;
+}
+.margtop1{
+    margin-top: 15%;
+}
+
+.margbott {
+    margin-bottom: 5%;
+}
+
+.padd {
+    padding: 0% !important;
+}
